@@ -1,4 +1,4 @@
-# Personal-Website-pt-1
+# Personal-Website-pt-2
 
 ## Website Includes:
 ### HTML, CSS, and Javascript
